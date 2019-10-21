@@ -12,3 +12,6 @@ Run `rl/data.py` for the SQL exploration.
 
 https://drive.google.com/file/d/1iJvsf38f16el58H4NPINQ7uzal5-V4v4/
 
+## Reference
+
+https://github.com/naver/sqlova

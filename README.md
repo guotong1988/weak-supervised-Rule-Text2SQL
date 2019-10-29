@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1iJvsf38f16el58H4NPINQ7uzal5-V4v4/
 
 | **Model**   | Dev <br />logical form <br />accuracy | Dev<br />execution<br/> accuracy | Test<br /> logical form<br /> accuracy | Test<br /> execution<br /> accuracy |
 | ----------- | ------------------------------------- | -------------------------------- | -------------------------------------- | ----------------------------------- |
+| Neural Symbolic Machines | -                  | 74.9               | -                   | 74.8     |
 | Our Methods | 68.7                   | 81.2               | 68.5                    | 81.0     |
 
 

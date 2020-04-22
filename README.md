@@ -4,6 +4,8 @@
 
 https://arxiv.org/abs/1907.00620
 
+(Incorporating database rule into weak supervised text-to-sql generation)
+
 ## Run
 
 Run `data/add_answer.py` to add answer for the origin wikisql data.

@@ -4,7 +4,7 @@
 
 https://arxiv.org/abs/1907.00620
 
-(Incorporating database designing info into weak supervised text-to-sql generation)
+(Incorporating database design info into weak supervised text-to-sql generation)
 
 ## Run
 

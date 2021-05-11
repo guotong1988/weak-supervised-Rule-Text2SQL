@@ -8,7 +8,7 @@ https://arxiv.org/abs/1907.00620
 
 # REASONABLE
 
-The rules of database itself are filtering the candidate SQLs which lead to the same answer.
+The rules of database itself are filtering the candidate SQLs which lead to the same answer. This method can combine other weakly supervised methods.
 
 ## Run
 

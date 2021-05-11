@@ -6,6 +6,10 @@ https://arxiv.org/abs/1907.00620
 
 (Incorporating database design info into weak supervised text-to-sql generation)
 
+# REASONABLE
+
+The rules of database itself are filtering the candidate SQLs which lead to the same answer.
+
 ## Run
 
 Run `data/add_answer.py` to add answer for the origin wikisql data.
